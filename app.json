@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Simple Login Template",
-    "slug": "simple-login-template",
+    "name": "React Native Simple Login Template",
+    "slug": "react-native-simple-login-template",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Simple login template created with React Native.",
+    "githubUrl": "https://github.com/venits/react-native-login-template"
   }
 }
